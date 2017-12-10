@@ -1,0 +1,23 @@
+{
+  "name": "FizzBuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch __test__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simplon-Rodez/FizzBuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simplon-Rodez/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/Simplon-Rodez/FizzBuzz#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
